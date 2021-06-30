@@ -38,7 +38,7 @@ namespace Branching
                 return;
             }
 
-            double quote = ((packageLength + packageHeight + packageWidth) * packageWeight / 100);
+            double quote = ((packageLength * packageHeight * packageWidth) * packageWeight / 100);
 
             Console.WriteLine("Your shipping total is $" + quote + ".");
             Console.ReadKey();
