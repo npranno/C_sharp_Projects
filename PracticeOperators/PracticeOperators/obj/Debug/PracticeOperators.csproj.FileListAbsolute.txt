@@ -1,0 +1,7 @@
+C:\Users\npran\OneDrive\Documents\GitHub\C_sharp_Projects\PracticeOperators\PracticeOperators\bin\Debug\PracticeOperators.exe.config
+C:\Users\npran\OneDrive\Documents\GitHub\C_sharp_Projects\PracticeOperators\PracticeOperators\bin\Debug\PracticeOperators.exe
+C:\Users\npran\OneDrive\Documents\GitHub\C_sharp_Projects\PracticeOperators\PracticeOperators\bin\Debug\PracticeOperators.pdb
+C:\Users\npran\OneDrive\Documents\GitHub\C_sharp_Projects\PracticeOperators\PracticeOperators\obj\Debug\PracticeOperators.csproj.AssemblyReference.cache
+C:\Users\npran\OneDrive\Documents\GitHub\C_sharp_Projects\PracticeOperators\PracticeOperators\obj\Debug\PracticeOperators.csproj.CoreCompileInputs.cache
+C:\Users\npran\OneDrive\Documents\GitHub\C_sharp_Projects\PracticeOperators\PracticeOperators\obj\Debug\PracticeOperators.exe
+C:\Users\npran\OneDrive\Documents\GitHub\C_sharp_Projects\PracticeOperators\PracticeOperators\obj\Debug\PracticeOperators.pdb
