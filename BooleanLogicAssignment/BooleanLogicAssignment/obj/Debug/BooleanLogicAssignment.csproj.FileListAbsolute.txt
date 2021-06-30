@@ -1,0 +1,7 @@
+C:\Users\npran\OneDrive\Documents\GitHub\C_sharp_Projects\BooleanLogicAssignment\BooleanLogicAssignment\bin\Debug\BooleanLogicAssignment.exe.config
+C:\Users\npran\OneDrive\Documents\GitHub\C_sharp_Projects\BooleanLogicAssignment\BooleanLogicAssignment\bin\Debug\BooleanLogicAssignment.exe
+C:\Users\npran\OneDrive\Documents\GitHub\C_sharp_Projects\BooleanLogicAssignment\BooleanLogicAssignment\bin\Debug\BooleanLogicAssignment.pdb
+C:\Users\npran\OneDrive\Documents\GitHub\C_sharp_Projects\BooleanLogicAssignment\BooleanLogicAssignment\obj\Debug\BooleanLogicAssignment.csproj.AssemblyReference.cache
+C:\Users\npran\OneDrive\Documents\GitHub\C_sharp_Projects\BooleanLogicAssignment\BooleanLogicAssignment\obj\Debug\BooleanLogicAssignment.csproj.CoreCompileInputs.cache
+C:\Users\npran\OneDrive\Documents\GitHub\C_sharp_Projects\BooleanLogicAssignment\BooleanLogicAssignment\obj\Debug\BooleanLogicAssignment.exe
+C:\Users\npran\OneDrive\Documents\GitHub\C_sharp_Projects\BooleanLogicAssignment\BooleanLogicAssignment\obj\Debug\BooleanLogicAssignment.pdb
