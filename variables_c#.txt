@@ -1,0 +1,26 @@
+Console.WriteLine("");
+string yourName = Console.ReadLine();
+Console.WriteLine("Your name is: " + yourName);
+Console.ReadLine();
+
+Console.WriteLine("what is your fav number");
+string favNumber = Console.ReadLine();
+in favNum = Convert.ToInt32(favNumber);
+int total = favNum + 5;
+Console.WriteLine("your fav number plus 5 is" + total);
+Console.ReadLine();
+
+bool isStudying = false;
+byte hoursWorked = 42;
+sbyte currentTemp = -23;
+char questionMark = 'u2103';
+decimal moneyInBank = 100.5m;
+double heightInCM = 211.3242356;
+float secondsLeft = 2.63f;
+int currentAge = 29;
+string yearsOld = currentAge.ToString();
+
+bool isRaining = true;
+string rainingStatus = Convert.ToString(isRaining);
+Console.WriteLine(rainingStatus);
+Console.ReadLine();
