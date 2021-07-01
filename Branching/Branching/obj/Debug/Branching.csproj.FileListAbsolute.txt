@@ -4,3 +4,4 @@ C:\Users\npran\OneDrive\Documents\GitHub\C_sharp_Projects\Branching\Branching\bi
 C:\Users\npran\OneDrive\Documents\GitHub\C_sharp_Projects\Branching\Branching\obj\Debug\Branching.csproj.CoreCompileInputs.cache
 C:\Users\npran\OneDrive\Documents\GitHub\C_sharp_Projects\Branching\Branching\obj\Debug\Branching.exe
 C:\Users\npran\OneDrive\Documents\GitHub\C_sharp_Projects\Branching\Branching\obj\Debug\Branching.pdb
+C:\Users\npran\OneDrive\Documents\GitHub\C_sharp_Projects\Branching\Branching\obj\Debug\Branching.csproj.AssemblyReference.cache
