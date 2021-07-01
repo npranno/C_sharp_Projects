@@ -10,6 +10,15 @@ namespace ConsoleApp
     {
         static void Main(string[] args)
         {
+
+            bool trueOrFalse = true;
+            while (trueOrFalse == true)
+            {
+                Console.WriteLine(trueOrFalse);
+                break;
+              
+            }
+
             string password = string.Empty;
             do
             {
@@ -19,7 +28,7 @@ namespace ConsoleApp
             while (password != "TheTechAcademy");
           
 
-            Console.WriteLine("Thank you!");
+            Console.WriteLine("Thank you! You have accessed the system.");
             Console.ReadLine();
 
             
