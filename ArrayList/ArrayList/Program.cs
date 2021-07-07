@@ -8,7 +8,7 @@ class Program
 {
     static void Main()
     {
-        // this creates a list to ask the user index input and then display the value
+        // this creates a list to ask the user for index input and then display the value
         string[] wordArray = { "This", "Is", "A", "Random", "Sentence" };
         Console.WriteLine("Enter a number between 0 and 4 to receive a random word:");
         int input = Convert.ToInt32(Console.ReadLine());
