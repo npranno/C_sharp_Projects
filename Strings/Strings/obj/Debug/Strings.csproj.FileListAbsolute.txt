@@ -1,0 +1,6 @@
+C:\Users\npran\OneDrive\Documents\GitHub\C_sharp_Projects\Strings\Strings\bin\Debug\Strings.exe.config
+C:\Users\npran\OneDrive\Documents\GitHub\C_sharp_Projects\Strings\Strings\bin\Debug\Strings.exe
+C:\Users\npran\OneDrive\Documents\GitHub\C_sharp_Projects\Strings\Strings\bin\Debug\Strings.pdb
+C:\Users\npran\OneDrive\Documents\GitHub\C_sharp_Projects\Strings\Strings\obj\Debug\Strings.csproj.CoreCompileInputs.cache
+C:\Users\npran\OneDrive\Documents\GitHub\C_sharp_Projects\Strings\Strings\obj\Debug\Strings.exe
+C:\Users\npran\OneDrive\Documents\GitHub\C_sharp_Projects\Strings\Strings\obj\Debug\Strings.pdb
