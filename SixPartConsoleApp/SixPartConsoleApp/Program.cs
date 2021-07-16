@@ -110,7 +110,7 @@ namespace SixPartConsoleApp
 
             Console.WriteLine("Exercises 11 and 12");
             //check if item is already in list then displays whether or not it is already in the list
-            List<string> exists = new List<string>(); //create new list that co contain multiple inputs
+            List<string> exists = new List<string>(); //create new list that contains multiple inputs
 
             foreach (string y in colors1)
             {
