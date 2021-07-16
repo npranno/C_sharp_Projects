@@ -116,7 +116,7 @@ namespace SixPartConsoleApp
             {
                 if (exists.Contains(y))
                 {
-                    Console.WriteLine("This color already exists in the database: ");
+                    Console.WriteLine("This color exists in the database: ");
                     Console.WriteLine(y);
                 }
                 else

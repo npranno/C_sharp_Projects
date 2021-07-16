@@ -1,0 +1,6 @@
+C:\Users\npran\OneDrive\Documents\GitHub\C_sharp_Projects\StringsAndIntegers\StringsAndIntegers\bin\Debug\StringsAndIntegers.exe.config
+C:\Users\npran\OneDrive\Documents\GitHub\C_sharp_Projects\StringsAndIntegers\StringsAndIntegers\bin\Debug\StringsAndIntegers.exe
+C:\Users\npran\OneDrive\Documents\GitHub\C_sharp_Projects\StringsAndIntegers\StringsAndIntegers\bin\Debug\StringsAndIntegers.pdb
+C:\Users\npran\OneDrive\Documents\GitHub\C_sharp_Projects\StringsAndIntegers\StringsAndIntegers\obj\Debug\StringsAndIntegers.csproj.CoreCompileInputs.cache
+C:\Users\npran\OneDrive\Documents\GitHub\C_sharp_Projects\StringsAndIntegers\StringsAndIntegers\obj\Debug\StringsAndIntegers.exe
+C:\Users\npran\OneDrive\Documents\GitHub\C_sharp_Projects\StringsAndIntegers\StringsAndIntegers\obj\Debug\StringsAndIntegers.pdb
