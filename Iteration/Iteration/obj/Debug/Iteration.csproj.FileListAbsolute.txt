@@ -1,0 +1,6 @@
+C:\Users\npran\OneDrive\Documents\GitHub\C_sharp_Projects\Iteration\Iteration\obj\Debug\Iteration.csproj.CoreCompileInputs.cache
+C:\Users\npran\OneDrive\Documents\GitHub\C_sharp_Projects\Iteration\Iteration\bin\Debug\Iteration.exe.config
+C:\Users\npran\OneDrive\Documents\GitHub\C_sharp_Projects\Iteration\Iteration\bin\Debug\Iteration.exe
+C:\Users\npran\OneDrive\Documents\GitHub\C_sharp_Projects\Iteration\Iteration\bin\Debug\Iteration.pdb
+C:\Users\npran\OneDrive\Documents\GitHub\C_sharp_Projects\Iteration\Iteration\obj\Debug\Iteration.exe
+C:\Users\npran\OneDrive\Documents\GitHub\C_sharp_Projects\Iteration\Iteration\obj\Debug\Iteration.pdb
