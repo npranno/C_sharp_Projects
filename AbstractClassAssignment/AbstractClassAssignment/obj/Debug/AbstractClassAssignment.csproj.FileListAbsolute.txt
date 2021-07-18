@@ -4,3 +4,4 @@ C:\Users\npran\OneDrive\Documents\GitHub\C_sharp_Projects\AbstractClassAssignmen
 C:\Users\npran\OneDrive\Documents\GitHub\C_sharp_Projects\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\AbstractClassAssignment.csproj.CoreCompileInputs.cache
 C:\Users\npran\OneDrive\Documents\GitHub\C_sharp_Projects\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\AbstractClassAssignment.exe
 C:\Users\npran\OneDrive\Documents\GitHub\C_sharp_Projects\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\AbstractClassAssignment.pdb
+C:\Users\npran\OneDrive\Documents\GitHub\C_sharp_Projects\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\AbstractClassAssignment.csproj.AssemblyReference.cache

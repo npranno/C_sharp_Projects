@@ -12,6 +12,7 @@ namespace AbstractClassAssignment
         {
             Employee employee = new Employee();
             employee.SayName();
+            employee.Quit();
 
         }
     }
