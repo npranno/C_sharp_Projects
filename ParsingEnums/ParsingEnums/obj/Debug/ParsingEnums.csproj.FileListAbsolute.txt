@@ -1,0 +1,6 @@
+C:\Users\npran\OneDrive\Documents\GitHub\C_sharp_Projects\ParsingEnums\ParsingEnums\bin\Debug\ParsingEnums.exe.config
+C:\Users\npran\OneDrive\Documents\GitHub\C_sharp_Projects\ParsingEnums\ParsingEnums\bin\Debug\ParsingEnums.exe
+C:\Users\npran\OneDrive\Documents\GitHub\C_sharp_Projects\ParsingEnums\ParsingEnums\bin\Debug\ParsingEnums.pdb
+C:\Users\npran\OneDrive\Documents\GitHub\C_sharp_Projects\ParsingEnums\ParsingEnums\obj\Debug\ParsingEnums.csproj.CoreCompileInputs.cache
+C:\Users\npran\OneDrive\Documents\GitHub\C_sharp_Projects\ParsingEnums\ParsingEnums\obj\Debug\ParsingEnums.exe
+C:\Users\npran\OneDrive\Documents\GitHub\C_sharp_Projects\ParsingEnums\ParsingEnums\obj\Debug\ParsingEnums.pdb
