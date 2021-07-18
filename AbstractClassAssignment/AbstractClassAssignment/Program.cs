@@ -10,10 +10,12 @@ namespace AbstractClassAssignment
     {
         static void Main(string[] args)
         {
-            Employee employee = new Employee();
-            employee.SayName();
-            employee.Quit();
-
+            Person person = new Employee()
+            {
+                firstName = "Sample",
+                lastName = "Student"
+            };
+            person.SayName();
         }
     }
 }
