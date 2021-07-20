@@ -4,10 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.IO;
-using Casino;
 using Casino.TwentyOne;
 
-namespace TwentyOne
+namespace Casino
 {
     class Program
     {
