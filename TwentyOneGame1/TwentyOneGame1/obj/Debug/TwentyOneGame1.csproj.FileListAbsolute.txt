@@ -1,0 +1,6 @@
+C:\Users\npran\OneDrive\Documents\GitHub\C_sharp_Projects\TwentyOneGame1\TwentyOneGame1\bin\Debug\TwentyOneGame1.exe.config
+C:\Users\npran\OneDrive\Documents\GitHub\C_sharp_Projects\TwentyOneGame1\TwentyOneGame1\bin\Debug\TwentyOneGame1.exe
+C:\Users\npran\OneDrive\Documents\GitHub\C_sharp_Projects\TwentyOneGame1\TwentyOneGame1\bin\Debug\TwentyOneGame1.pdb
+C:\Users\npran\OneDrive\Documents\GitHub\C_sharp_Projects\TwentyOneGame1\TwentyOneGame1\obj\Debug\TwentyOneGame1.csproj.CoreCompileInputs.cache
+C:\Users\npran\OneDrive\Documents\GitHub\C_sharp_Projects\TwentyOneGame1\TwentyOneGame1\obj\Debug\TwentyOneGame1.exe
+C:\Users\npran\OneDrive\Documents\GitHub\C_sharp_Projects\TwentyOneGame1\TwentyOneGame1\obj\Debug\TwentyOneGame1.pdb
